@@ -1,4 +1,4 @@
-![bg left](banner.jpg)
+![bg left](banner.png)
 
 ## Hi there, I'm Alec. Welcome to my GitHub profile!
 
